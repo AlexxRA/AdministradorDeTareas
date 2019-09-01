@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.exe.config
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.exe
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\bin\Debug\AdministradorDeTareas.pdb
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.Form1.resources
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.Properties.Resources.resources
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.exe
+C:\Users\Alex\Documents\5to Semestre\SO\AdministradorDeTareas\AdministradorDeTareas\obj\Debug\AdministradorDeTareas.pdb
